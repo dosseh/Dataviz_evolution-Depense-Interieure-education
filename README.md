@@ -25,7 +25,7 @@ Proposer une solution pour afficher les courbes individuellement ou toutes ensem
 
 Utiliser Integrator pour animer le passage d'une courbe à l'autre le cas échéant.
 
-Le cours se trouve ici : https://github.com/Ant01n3/dataviz.wiki.git
+Le cours se trouve ici : https://github.com/Ant01n3/dataviz/wiki/Cours3
 
 
 
